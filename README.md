@@ -12,3 +12,5 @@ Repositorio documentos proyecto manipuladores
 - 01 resistencia 5k
 - 1 Mosfet Tipo N IRLZ44
 - 01 Diodo
+#Diseños 3D y planos
+https://drive.google.com/file/d/1rcMLDvM_0g6M0H83WSVDHY4osOqlTaqu/view?usp=sharing 
